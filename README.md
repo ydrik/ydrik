@@ -1,7 +1,3 @@
-# Hi, I'm Cydric👋
-
-I'm a Bachelor of Science in Information Technology (BSIT) student with a strong passion for cybersecurity. I'm dedicated to learning the ins and outs of securing systems, networks, and data.
-
 ---
 
 ## 🛠️ My Toolkit & Technologies
