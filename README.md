@@ -1,5 +1,3 @@
----
-
 ## 🛠️ My Toolkit & Technologies
 
 Here are some of the tools and technologies I used:
